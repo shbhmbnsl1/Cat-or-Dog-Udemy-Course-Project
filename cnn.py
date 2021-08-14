@@ -8,6 +8,7 @@
 
 # Installing Keras
 # pip install --upgrade keras
+# Shubham Bansal
 
 # Part 1 - Building the CNN
 
